@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as s}from"./chunks/framework.BCU-4suy.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{"center":true,"layout":"posts"},"headers":[],"relativePath":"posts.md","filePath":"posts/index.md"}'),o={name:"posts.md"};function a(r,n,c,p,d,i){return s(),e("div")}const f=t(o,[["render",a]]);export{m as __pageData,f as default};

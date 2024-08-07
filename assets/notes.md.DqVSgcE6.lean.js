@@ -1,0 +1,1 @@
+import{_ as e,c as t,o}from"./chunks/framework.BCU-4suy.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{"layout":"notes"},"headers":[],"relativePath":"notes.md","filePath":"notes/index.md"}'),a={name:"notes.md"};function n(s,r,c,d,i,p){return o(),t("div")}const f=e(a,[["render",n]]);export{m as __pageData,f as default};
